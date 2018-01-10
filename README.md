@@ -7,7 +7,7 @@ Step To Run
 
   1. Clone  Repositary
   2. Jump to the repositary
-  3. fire $ npm install command
+  3. fire `npm install` command
   4. Hit ionic serve --lab to open the app in browser.
   
 Enjoy ;)
